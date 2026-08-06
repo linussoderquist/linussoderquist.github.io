@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: Interactive flora 
+    title: Interactive flora
     description: An toy example of an [interactive flora] (https://linussoderquist.github.io/vaxtkartan) of indicator species for nature conservation of forests.
     img: /assets/img/vaxtkarta.jpg
     ---
