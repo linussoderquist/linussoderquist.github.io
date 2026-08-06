@@ -1,14 +1,10 @@
 cv:
   name: Linus Söderquist
-  label: 
+  label: ""
   email: linus.soderquist@hotmail.com
-  location: 
+  location: "" 
   image: ""
   summary: 
-
-    social_networks:
-    - network: GitHub
-      username: linussoderquist
 
   address:
     street: 
