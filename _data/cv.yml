@@ -16,8 +16,8 @@ cv:
   sections:
     Education:
       - institution: Uppsala University
-        location: Uppsala, Sweden
-        url: 
+        location: ""
+        url: ""
         area: Ecological Botany
         studyType: PhD
         start_date: 2016
@@ -27,7 +27,7 @@ cv:
         highlights:
           
       - institution: Uppsala University
-        location: Uppsala, Sweden
+        location: ""
         area: Ecology and Nature Conservation
         studyType: MSc
         start_date: 2014
@@ -35,7 +35,7 @@ cv:
         highlights:
 
       - institution: Wageningen University
-        location: Wageningen, Netherlands
+        location: ""
         area: Erasmus exchange
         studyType: Master level
         start_date: 2014
@@ -43,7 +43,7 @@ cv:
         highlights:        
 
       - institution: Uppsala University
-        location: Uppsala, Sweden
+        location: ""
         area: Biology
         studyType: BSc
         start_date: 2011
@@ -53,7 +53,7 @@ cv:
     Experience:
       - company: Skogforsk
         position: Postdoctoral Researcher
-        location: Uppsala, Sweden
+        location: ""
         start_date: 2025
         end_date: 
         summary: 
@@ -61,21 +61,21 @@ cv:
 
       - company: Orchis Natur Norden AB
         position: Ecological consultant and Founder
-        location: Östersund, Sweden
+        location: ""
         start_date: 2022
         end_date: 
         highlights:
         
       - company: Ecogain
         position: Ecological consultant
-        location: Östersund, Sweden
+        location: ""
         start_date: 2024
         end_date: 2025
         highlights:
 
       - company: Uppsala University
         position: PhD Candidate
-        location: Uppsala, Sweden
+        location: ""
         start_date: 2016
         end_date: 2023
 
