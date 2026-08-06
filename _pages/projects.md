@@ -1,8 +1,8 @@
 ---
 layout: page
-title: research
+title: Mixed projects
 permalink: /research/
-description: Selected research projects
+description: Selected mixed projects
 nav: true
 nav_order: 2
 display_categories: [research,fun]
