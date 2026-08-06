@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Skogforsk</p>
-    <p>Sweden</p>
 
 selected_papers: false
 social: true
@@ -26,17 +24,20 @@ latest_posts:
   limit: 3
 ---
 
-I am a researcher in forest ecology, focusing on how forest vegetation and biodiversity respond to environmental conditions, forest management, and change over time.
+I am a plant ecologist with a background in conservation genetics, demographical modelling and forest ecology. Currently focusing on how forest vegetation and biodiversity respond to environmental conditions, forest management, and change over time.
 
-My current research combines long-term forest inventory data, plant functional traits, and ecological modelling. I use joint species distribution models, including HMSC, to investigate the mechanisms shaping plant communities and to evaluate how reliably ecological models can predict vegetation patterns.
+My current research at [Skogforsk](https://www.skogforsk.se/) combines long-term forest inventory data, plant functional traits, and ecological modelling to understand how plant's traits influence their dynamics and to make projections of future changes in biodiversity under different management strategies. 
 
 I am particularly interested in combining ecological theory, statistical modelling, and reproducible research workflows to produce results that are scientifically robust and useful for forest management.
+
+Outside of my research I run a small company working with [practical conservation of wild orchids](https://orchisnatur.wordpress.com/).
 
 ## Research interests
 
 - Forest vegetation dynamics
 - Biodiversity in managed forests
 - Joint species distribution models
+- Orchids
 - Plant functional traits
 - Ecological forecasting
-- Long-term forest inventory data
+- Conservation genetics
