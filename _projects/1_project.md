@@ -2,10 +2,10 @@
 layout: page
 title: project 1
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/vaxtkarta.jpg
 importance: 1
-category: work
-related_publications: true
+category: fun
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
@@ -16,9 +16,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    title: Interactive flora 
+    description: An toy example of an [interactive flora] (https://linussoderquist.github.io/vaxtkartan) of indicator species for nature conservation of forests.
+    img: /assets/img/vaxtkarta.jpg
     ---
 
 <div class="row">
