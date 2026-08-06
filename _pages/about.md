@@ -10,7 +10,7 @@ profile:
   image_circular: true
   more_info: >
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a plant ecologist with a background in conservation genetics, demographical modelling and forest ecology. Currently focusing on how forest vegetation and biodiversity respond to environmental conditions, forest management, and change over time.
+I am a **plant ecologist** with a background in **conservation genetics**, **demographical modelling** and forest **ecology**. Currently focusing on how forest vegetation and biodiversity respond to environmental conditions, forest management, and change over time.
 
 I defended my [thesis](https://www.dropbox.com/scl/fi/z0hnupt5exh0j3ogbh3v3/Thesis-Linus-S-derquist.pdf?rlkey=2fitz4unzge9hasdt20i2jl8u&st=wf83we39&dl=0) in ecological botany at Uppsala University in 2023. In it I investigated how the genetic diversity of the orchid *Gymnadenia conopsea* is linked to population size, viability and geography in Scandinavia. 
 
