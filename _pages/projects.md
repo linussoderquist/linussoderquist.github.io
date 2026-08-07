@@ -5,7 +5,7 @@ permalink: /research/
 description: Selected mixed projects
 nav: true
 nav_order: 2
-display_categories: [research,fun]
+display_categories: [fun]
 horizontal: false
 ---
 

@@ -4,7 +4,7 @@ title: Native plant chooser
 description: A tool to help evaluate swedish native plants for planting.
 img: assets/img/vaxtval.jpg
 redirect: https://linussoderquist.github.io/vaxtval/
-importance: 2
+importance: 1
 category: fun
 
 <div class="row">
