@@ -3,6 +3,7 @@ layout: page
 title: Information portal of Swedish plants
 description: Easy to use database of plant traits and preferences
 img: assets/img/vaxtlista.jpg
+redirect: https://linussoderquist.github.io/vaxtlista/](https://linussoderquist.github.io/vaxtlista/)
 importance: 2
 category: fun
 giscus_comments: true
