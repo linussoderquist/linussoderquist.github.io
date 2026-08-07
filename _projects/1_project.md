@@ -3,6 +3,7 @@ layout: page
 title: Interactive flora
 description: A Swedish toy example of an interactive flora, with 3D models.
 img: assets/img/vaxtkarta.jpg
+redirect: https://linussoderquist.github.io/vaxtkartan
 importance: 1
 category: fun
 related_publications: false

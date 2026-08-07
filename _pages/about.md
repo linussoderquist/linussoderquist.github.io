@@ -28,7 +28,7 @@ I am a **plant ecologist** with a background in **conservation genetics**, **dem
 
 I defended my [thesis](https://www.dropbox.com/scl/fi/z0hnupt5exh0j3ogbh3v3/Thesis-Linus-S-derquist.pdf?rlkey=2fitz4unzge9hasdt20i2jl8u&st=wf83we39&dl=0) in ecological botany at Uppsala University in 2023. In it I investigated how the genetic diversity of the orchid *Gymnadenia conopsea* is linked to population size, viability and geography in Scandinavia. 
 
-My current research at [Skogforsk](https://www.skogforsk.se/) combines long-term forest inventory data, plant functional traits, and ecological modelling to understand how plant's traits influence their dynamics and to make projections of future changes in biodiversity under different management strategies. 
+My current research, at [Skogforsk](https://www.skogforsk.se/) in Tord Snäll's lab, combines long-term forest inventory data, plant functional traits, and ecological modelling to understand how plant's traits influence their dynamics and to make projections of future changes in biodiversity under different management strategies. 
 
 I am particularly interested in combining ecological theory, statistical modelling, and reproducible research workflows to produce results that are scientifically robust and useful for forest management.
 
