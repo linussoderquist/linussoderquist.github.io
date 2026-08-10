@@ -37,9 +37,11 @@ Outside of my research I run a small company working with [practical conservatio
 ## Research interests
 
 - Forest vegetation dynamics
-- Biodiversity in managed forests
+- Demographic modelling
+- Applied conservation
+- Biodiversity in managed forests and grasslands
 - Joint species distribution models
-- Orchids
+- Terrestrial orchids (in all ways: conservation, cultivation for conservation, reintroductions, etc.)
 - Plant functional traits
 - Ecological forecasting
 - Conservation genetics
